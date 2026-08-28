@@ -4,7 +4,7 @@ This repository hosts a public review preview of the project page for:
 
 > **LayerRecall: A State-Conditioned Memory Router for Long-Horizon Consistency in Video Generation**
 
-Preview URL: <https://yixuan-ding-zju.github.io/LayerRecall/>
+Preview URL: <https://yixuan-ding-zju.github.io/LayerRecall_Web/>
 
 The paper, code, and model links shown on the page are not final. Content and presentation remain subject to revision while the authors conduct an internal collaborator review.
 
